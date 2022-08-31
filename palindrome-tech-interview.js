@@ -62,6 +62,8 @@ function allBooksWithPalindromeCount(books) {
     return booksWithCount;
 }
 
+
+//test case
 console.log(allBooksWithPalindromeCount([
     {title: "Test", words: ["racecar", "test", "mom", "dog", "asddsa", "banana", "three", "palindromes"]},
     {title: "Green", words: ["first", "second", "mom", "racecar", "fifth", "two", "palindromes"]},
